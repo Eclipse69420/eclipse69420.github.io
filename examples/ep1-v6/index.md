@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 案例复刻：EP1 v6 · Example: EP1 v6
+title: "案例复刻：EP1 v6 · Example: EP1 v6"
 ---
 
 # 案例复刻：EP1 v6
