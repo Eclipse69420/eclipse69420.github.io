@@ -11,4 +11,4 @@ title: 用途 · Use Cases
 - [锁脸短片](/use-cases/face-lock-short/)
 - [播报开篇](/use-cases/broadcast-opening/)
 
-更多用途（产品广告、口播视频等）待填。
+各工作流的成本/耗时：待 GPU 验证后实测。
